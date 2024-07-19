@@ -1,0 +1,17 @@
+/* src/components/Navbar.css */
+.navbar-link {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-icon {
+  margin-right: 8px; /* 8px corresponds to 2 in MUI spacing (mr: 2) */
+}
+
+.navbar-button {
+  color: inherit;
+}
+
+.navbar-login-text {
+  margin-left: 8px; /* 8px corresponds to 1 in MUI spacing (ml: 1) */
+}
